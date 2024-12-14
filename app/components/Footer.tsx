@@ -15,7 +15,7 @@ const Footer = () => {
               >
                 Rendiichtiar
               </a>
-              . All rights reserved | Roast Yourself
+              . All rights reserved | Roast Yourself | Support by Gemini AI
             </p>
           </div>
         </div>
